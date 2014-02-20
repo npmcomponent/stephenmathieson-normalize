@@ -1,0 +1,9 @@
+{
+  "name": "stephenmathieson-normalize",
+  "description": "Normalize events",
+  "version": "0.0.1",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {},
+  "license": "MIT"
+}
